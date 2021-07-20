@@ -1,7 +1,7 @@
 # Write a program that does a sum calculation between two numbers.
 
 print 'Enter first number: '
-n1 = gets.chomp.to_i
+n1 = gets.chomp.to_i 
 
 print 'Enter second number: '
 n2 = gets.chomp.to_i
